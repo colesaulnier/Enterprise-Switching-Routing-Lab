@@ -67,5 +67,6 @@ The completed topology was verified using:
 This project helped me understand how enterprise networks are built and expanded in layers. I practiced configuring VLAN segmentation, trunking, Layer 3 switching, redundancy, routing, and DHCP services while troubleshooting common issues such as native VLAN mismatches, blocked STP ports, DHCP failure across VLANs, and route reachability problems.
 
 ## Files
-- enterprise-switching-routing-lab.pkt — Cisco Packet Tracer project file
-- screenshots/ — topology and verification screenshots
+- enterprise-network.pkt — Cisco Packet Tracer project file
+- concepts-and-instructions.pdf - learned concepts and methods of implementation
+- full-topology.png - screenshot of network topology
